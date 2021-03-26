@@ -1,3 +1,7 @@
 .jumbotron p {
   font-size: 20px;
 }
+
+#suggested-language {
+  display: none;
+}
