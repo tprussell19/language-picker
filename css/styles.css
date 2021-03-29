@@ -9,3 +9,11 @@
 #language-description {
   display: none;
 }
+
+.bold {
+  font-weight: bold;
+}
+
+.language-description p {
+  width: 75%;
+}
